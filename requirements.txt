@@ -10,3 +10,4 @@ python-dotenv
 requests
 langchain_community
 unstructured
+tiktoken
