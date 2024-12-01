@@ -8,3 +8,4 @@ torch
 beautifulsoup4
 python-dotenv
 requests
+langchain_community
