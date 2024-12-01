@@ -2,7 +2,7 @@ streamlit
 nltk
 langchain
 openai
-faiss
+faiss-cpu
 transformers
 torch
 beautifulsoup4
